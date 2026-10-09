@@ -1,0 +1,4 @@
+# Kristalu evento nustatymai.
+event:
+  min-radius: 50
+  max-radius: 150
